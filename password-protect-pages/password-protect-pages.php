@@ -23,7 +23,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-define( 'PLUGIN_NAME_VERSION', '1.0.0' );
+define( 'PASSWORD_PROTECT_PAGES_VERSION', '1.0.0' );
 
 /**
  * The code that runs during plugin activation.
