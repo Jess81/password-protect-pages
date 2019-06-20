@@ -18,7 +18,7 @@
  *
  * @package    Password_Protect_Pages
  * @subpackage Password_Protect_Pages/public
- * @author     Jess Nunez <jess.mmstudio@gmail.com>
+ * @author     Jess Nunez <hi@jessnunez.dev>
  */
 class Password_Protect_Pages_Public {
 
